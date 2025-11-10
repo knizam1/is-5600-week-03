@@ -14,5 +14,10 @@
     "@types/node": "^18.0.6",
     "node-fetch": "^3.2.6",
     "nodemon": "^3.1.0"
+    "express": "^5.1.0",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
